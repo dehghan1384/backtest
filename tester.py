@@ -50,6 +50,7 @@ df["RSI14"]  = ta.momentum.rsi(df["Close"], window=14)
 
 df = df.dropna()
 
+
 # 5. اجرای بک‌تست با استفاده از crossover
 balance  = initial_bal
 position = None
