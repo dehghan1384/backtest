@@ -1,4 +1,5 @@
 Install dependencies
+
 bash
 pip install streamlit pandas matplotlib numpy ta
 Run the application
