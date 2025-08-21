@@ -5,7 +5,7 @@ Easily test trading strategies using historical Forex/stock data, customize indi
 
 ![Preview](https://img.shields.io/badge/Streamlit-App-blue?logo=streamlit)  
 ![Python](https://img.shields.io/badge/Python-3.8+-green?logo=python)  
-![License](https://img.shields.io/badge/License-MIT-purple)  
+
 
 ---
 
@@ -20,7 +20,7 @@ Easily test trading strategies using historical Forex/stock data, customize indi
 - [Examples](#-examples)  
 - [Troubleshooting](#-troubleshooting)  
 - [Contributors](#-contributors)  
-- [License](#-license)  
+
 
 ---
 
