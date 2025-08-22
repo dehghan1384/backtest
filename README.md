@@ -133,7 +133,7 @@ I'm currently the sole developer of BacktestPro and would love to collaborate wi
 
 If you're interested in contributing:
 
-Feel free to reach out directly at mohammad.dehghan8484@gmail.com
+Feel free to reach out directly at contact part at the end
 
 Let me know what areas interest you (UI/UX, strategy development, performance optimization, etc.)
 
@@ -151,6 +151,5 @@ Developing more sophisticated risk management tools
 
 ---
 
-**Created with ❤️ by Mohammad Dehghan - ✉️ Contact**
-
+**Created with ❤️ by Mohammad Dehghan** - [✉️ Contact](mailto:mohammad.dehghan8484@gmail.com)
 Special thanks to all who have provided feedback and suggestions to improve BacktestPro!
