@@ -5,7 +5,7 @@ Easily test trading strategies using historical Forex/stock data, customize indi
 
 ![Preview](https://img.shields.io/badge/Streamlit-App-blue?logo=streamlit)  
 ![Python](https://img.shields.io/badge/Python-3.8+-green?logo=python)  
-![License](https://img.shields.io/badge/License-MIT-purple)  
+
 
 ---
 
@@ -71,11 +71,9 @@ venv\Scripts\activate      # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
-
-## ⚙️ Installation
- 
-  sd
+## Requirements:
 
 Python 3.8+
 
@@ -89,4 +87,25 @@ TA (Technical Analysis library)
 
 Matplotlib
 
-XlsxWriter / OpenPyXL (for Excel reports)
+---
+## ▶️ Usage
+
+Run the app locally:
+```bash
+
+
+streamlit run app.py
+
+```
+Then open your browser at http://localhost:8501
+.
+
+📁 Upload historical price data.
+
+⚙️ Configure indicators, SL/TP, and money management.
+
+🎯 Pick a strategy preset or define custom entry/exit rules.
+
+📈 Run backtest → See equity curve, trades, and metrics.
+
+📥 Download the Excel/CSV report.
