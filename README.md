@@ -5,7 +5,7 @@ Easily test trading strategies using historical Forex/stock data, customize indi
 
 ![Preview](https://img.shields.io/badge/Streamlit-App-blue?logo=streamlit)  
 ![Python](https://img.shields.io/badge/Python-3.8+-green?logo=python)  
-
+![Python](https://img.shields.io/badge/TA--Lib-0.4.0+-yellowgreen.svg)  
 
 ---
 
@@ -13,8 +13,8 @@ Easily test trading strategies using historical Forex/stock data, customize indi
 - [Introduction](#-introduction)  
 - [Features](#-features)  
 - [Installation](#-installation)  
+- [Requirements](#-Requirements)
 - [Usage](#-usage)  
-- [Indicators & Strategies](#-indicators--strategies)  
 - [Configuration](#-configuration)  
 - [Reports & Exports](#-reports--exports)  
 - [Examples](#-examples)  
@@ -73,7 +73,8 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
-## Requirements:
+## 📋 Requirements
+
 
 Python 3.8+
 
@@ -88,6 +89,7 @@ TA (Technical Analysis library)
 Matplotlib
 
 ---
+
 ## ▶️ Usage
 
 Run the app locally:
@@ -109,3 +111,46 @@ Then open your browser at http://localhost:8501
 📈 Run backtest → See equity curve, trades, and metrics.
 
 📥 Download the Excel/CSV report.
+
+---
+
+## 🛠 Configuration
+
+- Initial Capital (default: $1000)
+
+- Position Sizing: % of equity or fixed USD
+
+- Leverage: 1x – 100x
+
+- SL/TP Modes: equity-based % (dynamic risk/reward)
+
+- Trading Hours: restrict entry to specific hours
+---
+
+## 🤝 Contributing
+
+I'm currently the sole developer of BacktestPro and would love to collaborate with others passionate about algorithmic trading and quantitative finance!
+
+If you're interested in contributing:
+
+Feel free to reach out directly at mohammad.dehghan8484@gmail.com
+
+Let me know what areas interest you (UI/UX, strategy development, performance optimization, etc.)
+
+All skill levels welcome - there are tasks ranging from documentation to advanced features
+
+I'm particularly interested in collaborating on:
+
+Adding new technical indicators
+
+Improving visualization capabilities
+
+Optimizing backtesting performance
+
+Developing more sophisticated risk management tools
+
+---
+
+**Created with ❤️ by Mohammad Dehghan - ✉️ Contact**
+
+Special thanks to all who have provided feedback and suggestions to improve BacktestPro!
