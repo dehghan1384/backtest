@@ -73,7 +73,9 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 
 
-## Requirements:
+## ⚙️ Installation
+ 
+  sd
 
 Python 3.8+
 
