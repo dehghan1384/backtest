@@ -152,4 +152,5 @@ Developing more sophisticated risk management tools
 ---
 
 **Created with ❤️ by Mohammad Dehghan** - [✉️ Contact](mailto:mohammad.dehghan8484@gmail.com)
+
 Special thanks to all who have provided feedback and suggestions to improve BacktestPro!
