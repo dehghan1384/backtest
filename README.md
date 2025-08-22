@@ -15,12 +15,9 @@ Easily test trading strategies using historical Forex/stock data, customize indi
 - [Installation](#-installation)  
 - [Requirements](#-Requirements)
 - [Usage](#-usage)  
-- [Configuration](#-configuration)  
-- [Reports & Exports](#-reports--exports)  
-- [Examples](#-examples)  
-- [Troubleshooting](#-troubleshooting)  
-- [Contributors](#-contributors)  
-- [License](#-license)  
+- [Configuration](#-configuration)    
+- [Contribution](#-contribution)  
+
 
 ---
 
